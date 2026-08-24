@@ -8,21 +8,17 @@ The dataset was cleaned and prepared using Python before being analyzed and visu
 
 - Python
 - Pandas
-- Matplotlib
 - Power BI
 - Power Query
 
 ## Key Analysis
 
 - Movie vs TV Show content distribution
-- Content trends by release year
 - Top countries producing Netflix content
 - Most common genres
 - Rating distribution
-- Movie duration analysis
-- Content addition trends
 - Geographic distribution of Netflix content
 
 ## Dashboard
 
-![Netflix-Content-Analysis-Dashboard](images/netflix_dashboard.png)
+![Netflix-Content-Analysis-Dashboard](images/netflix%20dashboard.png)
