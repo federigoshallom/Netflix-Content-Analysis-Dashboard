@@ -25,4 +25,4 @@ The dataset was cleaned and prepared using Python before being analyzed and visu
 
 ## Dashboard
 
-![Netflix Dashboard](images/netflix_dashboard.png)
+![Netflix-Content-Analysis-Dashboard](images/netflix_dashboard.png)
